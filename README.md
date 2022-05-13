@@ -4,6 +4,10 @@
 
 <p align="center"><img width="25%" src="https://user-images.githubusercontent.com/103043510/168200822-03670751-ae44-4879-aef1-0cca2e301efe.png"/> </p>
 <br>
+안녕하세요.✨
+제 이름은 여수인입니다. 😊
+백앤드와 프론트앤드를 병행하여 KH교육원에서 공부 중입니다.
+현재 구직 중이니 아래 사이트와 GIT을 참고하셔서 연락 주시길 바랍니다.
 <br>
 <div align=center><h1>📚 STACKS</h1></div>
 <br>
