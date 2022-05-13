@@ -7,7 +7,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=immof&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![immof's github stats](https://github-readme-stats.vercel.app/api?username=immof&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immof&layout=compact)](https://github.com/immof/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immof&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
