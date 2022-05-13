@@ -32,8 +32,8 @@
 
 ![immof's github stats](https://github-readme-stats.vercel.app/api?username=immof&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immof&layout=compact)](https://github.com/immof/immof)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immof&layout=compact)](https://github.com/immof/immof)
+ -->
 
 
 
