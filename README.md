@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suin%20&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suin%20&fontSize=100&fontAlign=70)
 
 <!--
 **immof/immof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
