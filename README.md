@@ -11,8 +11,9 @@
 현재 구직 중이니 아래 사이트와 GIT을 참고하셔서 연락 주시길 바랍니다.<br>
 <br>
 <br>
-  <h2>My profile</h2>
- 💌 https://immof8.wixsite.com/suinsuin 💌
+  <h2>📄 My Profile</h2>
+  <br>
+ https://immof8.wixsite.com/suinsuin
 </div>
 <br>
 <div align=center><h1>📚 STACKS</h1></div>
