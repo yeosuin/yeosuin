@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suin%20&fontSize=100&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suin%20&fontSize=100&fontAlign=80&animation=twinkling)
 
 
 <p align="center"><img width="25%" src="https://user-images.githubusercontent.com/103043510/168200822-03670751-ae44-4879-aef1-0cca2e301efe.png"/> </p>
