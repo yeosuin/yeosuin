@@ -9,6 +9,10 @@
 제 이름은 여수인입니다. 😊<br>
 백앤드와 프론트앤드를 병행하여 KH교육원에서 공부 중입니다.<br>
 현재 구직 중이니 아래 사이트와 GIT을 참고하셔서 연락 주시길 바랍니다.<br>
+<br>
+<br>
+  <h2>My profile</h2>
+ 💌 https://immof8.wixsite.com/suinsuin 💌
 </div>
 <br>
 <div align=center><h1>📚 STACKS</h1></div>
