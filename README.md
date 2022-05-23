@@ -13,7 +13,7 @@
 <br>
   <h2>📄 My Profile</h2>
   <br>
- https://immof8.wixsite.com/suinsuin
+ https://suinyeo.wixsite.com/suinsuin
 </div>
 <br>
 <div align=center><h1>📚 STACKS</h1></div>
