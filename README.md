@@ -14,6 +14,7 @@
   <h2>📄 My Profile</h2>
   <br>
  https://suinyeo.wixsite.com/suinsuin
+ https://suin-lemon-no-tion.notion.site/8be0b80bd4cb4506ab8b2f8bec9c4ba2?v=be47974085fa4a9ea0e0e0c5a90d42c8
 </div>
 <br>
 <div align=center><h1>📚 STACKS</h1></div>
