@@ -15,6 +15,7 @@
   <br>
  https://suinyeo.wixsite.com/suinsuin
   <br>
+  현재 진행되는 파이널 프로젝트가 궁금하시다면 아래 노션을 클릭해 주세요!
  https://suin-lemon-no-tion.notion.site/8be0b80bd4cb4506ab8b2f8bec9c4ba2?v=be47974085fa4a9ea0e0e0c5a90d42c8
 </div>
 <br>
