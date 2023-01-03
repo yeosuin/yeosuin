@@ -5,6 +5,7 @@
 <p align="center"><img width="25%" src="https://user-images.githubusercontent.com/103043510/168200822-03670751-ae44-4879-aef1-0cca2e301efe.png"/> </p>
 <br>
 <div align=center> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeosuin&count_bg=%23ACFF4D&title_bg=%23FFE900&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 안녕하세요.✨<br>
 프론트앤드 개발자 여수인입니다. <br>
 <br>
