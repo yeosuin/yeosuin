@@ -44,7 +44,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=immof&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![yeosuin's github stats](https://github-readme-stats.vercel.app/api?username=immof&show_icons=true)
+![yeosuin's github stats](https://github-readme-stats.vercel.app/api?username=yeosuin&show_icons=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immof&layout=compact)](https://github.com/yeosuin/yeosuin)
  -->
