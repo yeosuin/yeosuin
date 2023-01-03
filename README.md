@@ -12,7 +12,7 @@
 <br>
   <h2>📄 My Profile</h2>
   <br>
-  <h3> Notion Profile</h3> <br>
+  <h3> Notion Profile</h3>
   https://suin-lemon-no-tion.notion.site/Yeo-Suin-s-Profile-9020a598a42b4e729ec1bdbc5026f3cf
   <br>
   <br>
