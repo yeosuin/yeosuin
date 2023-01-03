@@ -6,16 +6,14 @@
 <br>
 <div align=center> 
 안녕하세요.✨<br>
-제 이름은 여수인입니다. 😊<br>
-백앤드와 프론트앤드를 병행하여 KH교육원에서 공부 중입니다.<br>
-현재 구직 중이니 아래 사이트와 GIT을 참고하셔서 연락 주시길 바랍니다.<br>
+프론트앤드 개발자 여수인입니다. <br>
 <br>
 <br>
   <h2>📄 My Profile</h2>
   <br>
  https://suinyeo.wixsite.com/suinsuin
   <br>
-  현재 진행되는 파이널 프로젝트가 궁금하시다면 아래 노션을 클릭해 주세요!<br>
+ 파이널 프로젝트 때 스스로에게 궁금한 것들을 모은 모음집<br>
  https://suin-lemon-no-tion.notion.site/8be0b80bd4cb4506ab8b2f8bec9c4ba2?v=be47974085fa4a9ea0e0e0c5a90d42c8
 </div>
 <br>
