@@ -12,6 +12,10 @@
 <br>
   <h2>📄 My Profile</h2>
   <br>
+  Notion Profile
+  https://suin-lemon-no-tion.notion.site/Yeo-Suin-s-Profile-9020a598a42b4e729ec1bdbc5026f3cf
+  <br>
+  <br>
  https://suinyeo.wixsite.com/suinsuin
   <br>
  파이널 프로젝트 때 스스로에게 궁금한 것들을 모은 모음집<br>
