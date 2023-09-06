@@ -8,24 +8,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeosuin&count_bg=%23ACFF4D&title_bg=%23FFE900&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 안녕하세요.✨<br>
 프론트앤드 개발자 여수인입니다. <br>
-<br>
-<br>
-  <h2>📄 My Profile</h2>
-  <br>
-  <h3> Notion Profile</h3>
-  https://suin-lemon-no-tion.notion.site/Yeo-Suin-s-Profile-9020a598a42b4e729ec1bdbc5026f3cf
-  <br>
-  
-  <br>
- https://suinyeo.wixsite.com/suinsuin
- https://suin-todolist.web.app/
-  <br><br>
- 파이널 프로젝트 때 스스로에게 궁금한 것들을 모은 모음집<br>
- https://suin-lemon-no-tion.notion.site/8be0b80bd4cb4506ab8b2f8bec9c4ba2?v=be47974085fa4a9ea0e0e0c5a90d42c8
-</div>
-<br>
-<div align=center><h1>📚 STACKS</h1></div>
-<br>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
