@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=gradient&height=200&section=header&Welcome+to+Suin's+Github!👋&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=gradient&height=200&section=header&text=Welcome+to+Suin's+Github!👋&fontSize=40"/>
 <div align=center> 
 
 안녕하세요.✨<br>
